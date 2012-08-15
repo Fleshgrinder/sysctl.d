@@ -1,2 +1,3 @@
-sysctl.d
-========
+# sysctl.d
+
+My personal sysctl.d configuration.
