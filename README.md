@@ -14,7 +14,7 @@ My personal kernel system variables configuration for web servers.
 > of the file, anything will work. See *sysctl.conf(8)* man page for details
 > of the format.
 >
-> <cite>`/etc/sysctl.d/README.sysctl</cite>
+> <footer>— <cite>`/etc/sysctl.d/README.sysctl`</cite></footer>
 
 ## Installation
 ```
