@@ -28,3 +28,12 @@ sysctl -p
 > This is free and unencumbered software released into the public domain.
 >
 > For more information, please refer to <http://unlicense.org>
+
+## References
+- Oskar Andreasson: “[Ipsysctl-tutorial](https://www.frozentux.net/documents/ipsysctl-tutorial/)”, 2002.
+- ESnet: “[Linux Tuning](http://fasterdata.es.net/host-tuning/linux/)”, September 22th, 2014.
+- nixCraft: “[Linux Tune Network Stack (Buffers Size) To Increase Networking Performance](http://www.cyberciti.biz/faq/linux-tcp-tuning/)”, May 20th, 2009.
+- nixCraft: “[Linux Kernel /etc/sysctl.conf Security Hardening](http://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)”, October 27th, 2009.
+- nixCraft: “[Top 20 Nginx WebServer Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)”, March 6th, 2010.
+- sergioxii: “[Nginx and PHP-FPM for heavy load wordpress web server with high traffic 2000+ concurrent connections](http://itresident.com/nginx/nginx-and-php-fpm-for-heavy-load-wordpress-web-server-with-high-traffic-2000-concurrent-connections/)”, February 26th, 2012.
+- The PostgreSQL Global Development Group: “[Managing Kernel Resources](http://www.postgresql.org/docs/devel/static/kernel-resources.html)”, 2014.
