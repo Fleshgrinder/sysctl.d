@@ -24,11 +24,6 @@ cp sysctl.d/sysctl.conf /etc/sysctl.conf
 sysctl -p
 ```
 
-## License
-> This is free and unencumbered software released into the public domain.
->
-> For more information, please refer to <http://unlicense.org>
-
 ## References
 - Oskar Andreasson: “[Ipsysctl-tutorial](https://www.frozentux.net/documents/ipsysctl-tutorial/)”, 2002.
 - ESnet: “[Linux Tuning](http://fasterdata.es.net/host-tuning/linux/)”, September 22th, 2014.
@@ -37,3 +32,6 @@ sysctl -p
 - nixCraft: “[Top 20 Nginx WebServer Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)”, March 6th, 2010.
 - sergioxii: “[Nginx and PHP-FPM for heavy load wordpress web server with high traffic 2000+ concurrent connections](http://itresident.com/nginx/nginx-and-php-fpm-for-heavy-load-wordpress-web-server-with-high-traffic-2000-concurrent-connections/)”, February 26th, 2012.
 - The PostgreSQL Global Development Group: “[Managing Kernel Resources](http://www.postgresql.org/docs/devel/static/kernel-resources.html)”, 2014.
+
+## License
+[![AGPL-3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/AGPLv3_Logo.svg/128px-AGPLv3_Logo.svg.png)](https://www.gnu.org/licenses/agpl-3.0.html)
